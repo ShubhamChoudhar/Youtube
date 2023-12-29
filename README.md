@@ -1,1 +1,1 @@
-shubhamcportfolio.netlify.app - Have a look over my youtube clone
+https://youtubeshubh.netlify.app - Have a look over my youtube clone
